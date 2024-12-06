@@ -3,3 +3,5 @@ pylint
 pytest
 click
 black
+python-dotenv
+openai
